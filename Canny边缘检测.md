@@ -220,6 +220,6 @@ int main()
 }
 ```
 
-#### 2.实验结果
+#### 2.result
 
 ![image-20230412102345942](https://raw.githubusercontent.com/kurisaW/picbed/main/img2023/202304121023705.png)
